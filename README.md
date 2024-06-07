@@ -12,10 +12,9 @@ The Recipe Book is a delightful collection of culinary treasures. From classic c
 
 ## Skills Demonstrated
 
-By completing this project, you'll demonstrate the following skills:
+By completing this project, I demonstrated the following skills:
 
 1. **HTML**: You'll create a structured webpage using HTML tags to organize content.
-2. **Styling**: Enhance the visual appeal of your recipe book with CSS styling.
 3. **List Formatting**: Present ingredients and steps using ordered and unordered lists.
 4. **Image Embedding**: Embed mouthwatering images of your recipes to entice readers.
 5. **Hyperlinks**: Connect your recipe book to other pages or external resources.
