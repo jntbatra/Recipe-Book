@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+img{
+    border: 5px solid white;
+    padding:3px;
+}
+
+h1{
+    text-align: right;
+}
